@@ -36,3 +36,5 @@ __Korean__
 
 Those fonts are not included in this project.
 
+Notes: The plist files are based on Yosemite 10.10.3
+
