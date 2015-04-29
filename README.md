@@ -10,28 +10,28 @@ __Japanese__
 
 - SourceHanSans-Regular
 - SourceHanSans-Light
-- SourceHanSans-Meidum
+- SourceHanSans-Medium
 - SourceHanSans-ExtraLight
 
 __Simplified Chinese__
 
 - SourceHanSansSC-Regular
 - SourceHanSansSC-Light
-- SourceHanSansSC-Meidum
+- SourceHanSansSC-Medium
 - SourceHanSansSC-ExtraLight
 
 __Tradiational Chinese__
 
 - SourceHanSansTC-Regular
 - SourceHanSansTC-Light
-- SourceHanSansTC-Meidum
+- SourceHanSansTC-Medium
 - SourceHanSansTC-ExtraLight
 
 __Korean__
 
 - SourceHanSansK-Regular
 - SourceHanSansK-Light
-- SourceHanSansK-Meidum
+- SourceHanSansK-Medium
 - SourceHanSansK-ExtraLight
 
 Those fonts are not included in this project.
